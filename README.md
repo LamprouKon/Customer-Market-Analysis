@@ -1,5 +1,7 @@
 Customer Segmentation and Pareto Analysis with RFM
+
 🎯 Objective:
+
 This project focuses on analyzing customer purchasing behavior using the RFM (Recency, Frequency, Monetary) model. By leveraging the Pareto Principle, it identifies the most valuable customers contributing significantly to total sales.
 
 
